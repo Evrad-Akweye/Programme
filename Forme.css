@@ -1,0 +1,55 @@
+.G1,.G2,.G3
+{
+    background-color: green;
+    height: 175px;
+    margin-bottom: 20px;
+}
+.col
+{
+    margin-top: 20px;
+}
+.R1,.R2,.R3
+{
+    background-color: red;
+    height: 175px;
+    margin-bottom: 20px;
+}
+.J1,.J2,.J3
+{
+   background-color: yellow;
+   height: 175px;
+   margin-bottom: 20px;
+}
+.R3,.J1
+{
+    height: 75px;
+    margin-top: 100px;
+}
+.R1
+{
+   height: 110px;
+   margin-top: 65px;
+}
+.btn
+{
+   background: linear-gradient(to top,rgba(31, 42, 255, 0.5),rgb(56, 56, 220));
+}
+.col-4
+{
+    align-items: start;
+  margin-top: 10px;  
+  margin-right: 40px;
+}
+.Titlenav,.nav-link
+{
+    text-align: center;
+    color: black;
+}
+.col-1
+{
+   margin-left: 80px;
+}
+.navbar
+{
+    box-shadow: 0px 10px 0px blue ; 
+}
